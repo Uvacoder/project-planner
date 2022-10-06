@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum edited",
+      "complete": false
+    },
+    {
+      "title": "become a vue ninja",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, eligendi vitae. Cumque ratione assumenda ex, similique laboriosam ipsa ad sit facere dignissimos, expedita dolorum enim repellendus explicabo voluptatibus placeat excepturi tempore optio omnis numquam illo? Aperiam vel corporis aut odit molestias saepe eaque quod. Quod quos eaque maxime libero deserunt?",
+      "complete": true,
+      "id": 3
+    }
+  ]
+}
